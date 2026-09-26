@@ -1,0 +1,8 @@
+# Inferred direct dependencies; versions and compatibility have not been tested.
+keras
+matplotlib
+numpy
+pandas
+scikit-learn
+tensorflow
+jupyterlab
